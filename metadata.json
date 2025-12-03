@@ -1,0 +1,5 @@
+{
+  "name": "CyberRace: Informatics Duel",
+  "description": "A 2-player competitive quiz game about Computer Science. Race your computer avatars to the finish line by answering questions correctly on a split-screen interface.",
+  "requestFramePermissions": []
+}
